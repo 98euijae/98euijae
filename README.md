@@ -1,8 +1,9 @@
 
+<div align="center">
+  ### LEE EUI JAE
 
-### LEE EUI JAE
-
-[![](https://img.shields.io/badge/velog-gray?style=flat-square&logo=velog&logoColor=white)](http://velog.io/@98euijae)
+  [![](https://img.shields.io/badge/velog-gray?style=flat-square&logo=velog&logoColor=white)](http://velog.io/@98euijae)
+</div>
 
 <!--
 **98euijae/98euijae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
