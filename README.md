@@ -6,6 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=98euijae&show_icons=true&theme=graywhite&include_orgs=true)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=98euijae&theme=graywhite)](https://github.com/98euijae/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=98euijae&theme=graywhite&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/98euijae/github-readme-stats)
 
 </div>
